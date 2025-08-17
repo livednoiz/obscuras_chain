@@ -6,7 +6,7 @@
 ![ETH](https://img.shields.io/badge/ETH-Blockchain-lightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
-![Version](https://img.shields.io/badge/Version-BETA-0.2.0-blue.svg)
+![Version](https://img.shields.io/badge/Version-0.2.0-blue.svg)
 <img src="https://github.com/livednoiz/obscuras_chain/blob/main/assets/obs_chain.png" alt="OBS-Chain Logo" width="50%"/>
 </div>
 
