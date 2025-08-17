@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+.env
+
+# Log & Output
+*.log
+*.out
+
+# VS Code
+.vscode/
+
+# Sonstiges
+*.swp
+*.bak
+
+# Testdaten
+*.sqlite
+*.db
+
+# Node (falls JS-Tools)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Projekt-spezifisch
+# EVM Event-Logger
+/evm_events.log
