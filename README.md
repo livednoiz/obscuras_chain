@@ -1,5 +1,16 @@
 # 🌌 Obscuras Chain
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
+![ETH-EVM](https://img.shields.io/badge/EVM-blockchain-green.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-2.2.0-blue.svg)
+<img src="https://github.com/livednoiz/obscuras_chain/blob/main/assets/obs_chain.png" alt="OBS-Chain Logo" width="50%"/>
+</div>
+
+
 **Die dezentrale EVM-Blockchain für eine bessere Welt.**
 
 Obscuras Chain ist ein schlanker, prototypischer Ethereum Virtual Machine (EVM) Node, der es Entwicklern ermöglicht, **Smart Contracts zu deployen, auszuführen und zu testen**, während er das Fundament für eine **dezentrale Organisation (DAO)** legt.
