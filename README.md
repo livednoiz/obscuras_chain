@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
-![ETH](https://img.shields.io/badge/ETH-Blockchain-lightgreen.svg)
+![ETH](https://img.shields.io/badge/ETH-Blockchain-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
 ![Version](https://img.shields.io/badge/Version-0.2.0-blue.svg)
